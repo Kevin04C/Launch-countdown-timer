@@ -19,7 +19,7 @@ body {
   align-items: center;
 }
 .pattern-hills {
-  position: absolute;
+  position: fixed;
   z-index: -1;
   width: 100%;
   left: 0;
